@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy for Article Summarizer - AI
-css: /styles/styles.css
+css: /assets/styles.css
 ---
 
 # Privacy Policy for Article Summarizer - AI
