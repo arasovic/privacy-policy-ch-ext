@@ -1,3 +1,7 @@
+---
+title: Privacy Policy for Article Summarizer - AI
+---
+
 # Privacy Policy for Article Summarizer - AI
 
 **Effective Date:** 09/03/2025
